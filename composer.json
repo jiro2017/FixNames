@@ -1,0 +1,16 @@
+{
+    "name": "ujiro2017/fixnames",
+    "description": "A code snippet that fixes name input by user. It removes spaces and none word characters and set the first letter in each name to upper case. Arguments are passed by referece.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ujiro Oduokpe"
+        }
+    ],
+    "autoload": {
+        "files" : ["src/FixNames.php"]
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
