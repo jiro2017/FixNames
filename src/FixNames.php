@@ -1,7 +1,7 @@
 <?php
 namespace FixNames;
 /**
- * fix_names fixes the name strings input by the user of your application by removing white spaces and setting each name to initial caps.
+ * fix_names fixes the name strings input by the user of application by removing white spaces and setting each name to initial caps.
  * All paramenters are passed by reference.
  * All names are by default set to the null string.
  * This means that all names are not required.
