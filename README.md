@@ -30,9 +30,9 @@ $firstname = " John";
 $middlename = "doe ";
 $surname = "MIKE";
 
-echo "Unfixed names: $surname $firstname $middlename<br>"; // Unfixed Names: John doe  Mike
+echo "Unfixed names: $surname $firstname $middlename<br>"; // Unfixed Names: Mike John doe  
 
 fix_names($surname, $firstname, $middlename);
 
-echo "Fixed names: $surname $firstname $middlename"; // Fixed Names John Doe Mike
+echo "Fixed names: $surname $firstname $middlename"; // Fixed Names: Mike John Doe
 ```
