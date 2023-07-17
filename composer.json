@@ -12,5 +12,7 @@
         "files" : ["src/FixNames.php"]
     },
 
-    "require": {}
+    "require": {
+        "Jiro2017/FixNames" : "@dev"
+    }
 }
