@@ -13,6 +13,6 @@
     },
 
     "require": {
-        "Jiro2017/FixNames" : "@dev"
+        "Jiro2017/fixnames" : "@dev"
     }
 }
