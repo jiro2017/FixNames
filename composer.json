@@ -11,7 +11,7 @@
     "autoload": {
         "files" : ["src/FixNames.php"]
     },
-    "minimum-stability": "stable",
+
     "require": {
         "Jiro2017/FixNames" : "dev@main"
     }
